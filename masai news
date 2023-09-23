@@ -1,0 +1,18 @@
+<div class="container">
+  <header>
+    <h1>Masai News</h1>
+  </header>
+  <main>
+    <div class="article">
+      <img src="https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-04-11/Masai%20News_601073.png" alt="Masai News">
+      <p>This is the main article.</p>
+    </div>
+    <div class="sidebar">
+      <ul>
+        <li><a href="#">Article 1</a></li>
+        <li><a href="#">Article 2</a></li>
+        <li><a href="#">Article 3</a></li>
+      </ul>
+    </div>
+  </main>
+</div>
